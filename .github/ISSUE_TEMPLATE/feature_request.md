@@ -6,15 +6,17 @@ labels: 'enhancement'
 assignees: ''
 
 ---
+## Descrição
+<!-- 
+ Dê maiores detalhes sobre sua solicitação, o que ela deve fazer ou sugestões de melhorias
+-->
+ 
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Referências
+<!-- 
+Possui referencias para nos mostrar? Isso nos ajuda a entender melhor sobre o que está sugerindo
+ -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Screenshots
+Se possível, adicione screenshots referentes a solicitação.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.

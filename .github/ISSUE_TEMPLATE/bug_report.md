@@ -3,36 +3,23 @@ name: Bug report
 about: Create a report to help us improve
 title: "[Bug]: "
 labels: bug
-assignees: ''
-
+assignees: 'rodcordeiro'
 ---
+## Descrição
+<!-- 
+ Dê maiores detalhes sobre o bug, sobre o que aconteceu e o que estava fazendo quando ocorreu.
+-->
+ Permite adicionar o ponto em branco, sem nenhuma informação
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
+## Reprodução do erro
+<!-- 
+Quais os passos para reproduzir o erro? Por favor informe-os conforme abaixo:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+ -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Screenshots
+Se possível, adicione screenshots referentes ao erro.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.

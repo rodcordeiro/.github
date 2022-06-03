@@ -1,8 +1,11 @@
-**Describe the bug this PR is fixing**
-A clear and concise description of what the bug is.
+## Descrição
+ Dê maiores detalhes sobre este pull request. Foi feita alguma implementação ou correção? Qual issue ele atende?
+ 
+## Mudanças
+ O que será modificado com este PR? Quais mudanças foram feitas?
 
-**Describe the changes made to fix this bug**
-Steps to reproduce the behavior:
-
-**Additional context**
-Add any other context about the problem here.
+## Issues relacionadas
+<!-- 
+ Para relacionar Issues, basta digitar #numero_da_issue, exemplo
+ #1
+-->
